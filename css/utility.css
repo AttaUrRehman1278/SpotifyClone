@@ -1,0 +1,69 @@
+.rounded {
+    border-radius: 10px;
+} 
+
+.flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.items-align-center {
+    align-items: center;
+}
+
+.g-10 {
+    gap: 10px;
+}
+
+.g-5 {
+    gap: 5px;
+}
+.g-6 {
+    gap: 6px;
+}
+.flex-column {
+    flex-direction: column;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.p-20 {
+    padding: 20px;
+}
+
+.m-1 {
+    margin: 10px 10px 10px 10px;
+}
+
+.rounded-full {
+    border-radius: 100%;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.p-top {
+    padding-top: 3px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.pointer {
+    cursor: pointer;
+}
