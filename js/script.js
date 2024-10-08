@@ -33,7 +33,7 @@ async function getSurahs(folder) {
 
         
         surahUL.innerHTML = surahUL.innerHTML +  ` <li>
-        <img src="public/rockstar-umair.jfif" alt="">
+        <img src="public/Quran_cover.jpg" alt="">
         <div class='info'>
         <div class='song-name'>${surah.replaceAll("%20", " ")}</div>
         </div>
@@ -91,7 +91,7 @@ async function displayAlbums() {
 </g>
 </svg>
                                 </div>
-                            <img src="tilawat/${folder}/rockstar-umair.jfif" alt="">
+                            <img src="tilawat/${folder}/Quran_cover.jpg" alt="">
                             <h2>${text.title}</h2>
                             <p>${text.description}</p>
                         </div>` 
